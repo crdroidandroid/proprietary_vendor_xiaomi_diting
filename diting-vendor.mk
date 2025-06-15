@@ -549,6 +549,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/diting/proprietary/vendor/firmware/CAMERA_ICP.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.mdt \
     vendor/xiaomi/diting/proprietary/vendor/firmware/CAMERA_ICP_170.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP_170.elf \
     vendor/xiaomi/diting/proprietary/vendor/firmware/CAMERA_ICP_480.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP_480.elf \
+    vendor/xiaomi/diting/proprietary/vendor/firmware/a730_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a730_sqe.fw \
     vendor/xiaomi/diting/proprietary/vendor/firmware/T-cs35l41-dsp1-spk-cali.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/T-cs35l41-dsp1-spk-cali.bin \
     vendor/xiaomi/diting/proprietary/vendor/firmware/T-cs35l41-dsp1-spk-prot.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/T-cs35l41-dsp1-spk-prot.bin \
     vendor/xiaomi/diting/proprietary/vendor/firmware/T-handfree.txt:$(TARGET_COPY_OUT_VENDOR)/firmware/T-handfree.txt \
@@ -614,6 +615,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/diting/proprietary/vendor/firmware/evautil64.b05:$(TARGET_COPY_OUT_VENDOR)/firmware/evautil64.b05 \
     vendor/xiaomi/diting/proprietary/vendor/firmware/evautil64.b06:$(TARGET_COPY_OUT_VENDOR)/firmware/evautil64.b06 \
     vendor/xiaomi/diting/proprietary/vendor/firmware/evautil64.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/evautil64.b07 \
+    vendor/xiaomi/diting/proprietary/vendor/firmware/gmu_gen70000.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gmu_gen70000.bin \
     vendor/xiaomi/diting/proprietary/vendor/firmware/evautil64.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/evautil64.mdt \
     vendor/xiaomi/diting/proprietary/vendor/firmware/goodix_cfg_group_l12.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group_l12.bin \
     vendor/xiaomi/diting/proprietary/vendor/firmware/goodix_cfg_group_l12_new.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group_l12_new.bin \
