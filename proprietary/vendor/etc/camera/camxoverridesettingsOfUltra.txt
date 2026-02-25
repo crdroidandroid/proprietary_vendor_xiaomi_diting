@@ -17,6 +17,9 @@ enablePerRequestSync=FALSE
 isPhyicalMultiCameraSupported=TRUE
 videoSATSupportedRange=0x03
 
+#Resort the sensor data
+enableResortSensorData=TRUE
+
 # SAT zoom animation params
 isSwitchAnimationSupported=TRUE
 satZoomButton=0.6:1:2:5:10|0.6:1:2:5:6
